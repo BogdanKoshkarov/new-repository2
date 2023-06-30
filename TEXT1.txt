@@ -1,1 +1,2 @@
-First chenges 30-06-2023 "Some text or data"
+First changes 30-06-2023 "Some text or data"
+It was second changes (I did them in github.com).
