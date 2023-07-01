@@ -1,4 +1,5 @@
 First changes 30-06-2023 "Some text or data"
 It was second changes (I did them in github.com).
 OK - I want to cgange this text and put inside more information.
+I edited this file at 01-07-2023
 
