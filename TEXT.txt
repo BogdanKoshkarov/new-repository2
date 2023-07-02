@@ -8,12 +8,14 @@ This changes was for (new-test-branch-Repository2)
 Hi I want to see your changes 02-07-2023/ Can you do them today?
 
 
-02-07-2023 Change #1 (new-test-branch-Repository2)
-02-07-2023 Change #2
-02-07-2023 Change #3
-02-07-2023 Change #4
-02-07-2023 Change #5
-(new-test-branch-Repository2)
-02-07-2023 Change #6
-02-07-2023 Change #7
+
+02-07-2023 Change #2 (this change I wan to save)
+02-07-2023 Change #3(this change I wan to save)
+02-07-2023 Change #4(this change I wan to save)
+02-07-2023 Change #5(this change I wan to save)
+(new-test-branch-Repository2)(this change I wan to save)
+02-07-2023 Change #6(this change I wan to save)
+02-07-2023 Change #7(this change I wan to save)
+
+
 
